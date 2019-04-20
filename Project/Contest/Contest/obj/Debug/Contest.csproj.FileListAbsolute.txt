@@ -6,6 +6,7 @@ E:\SPAAP\Contest\Contest\obj\Debug\Contest.dll
 E:\SPAAP\Contest\Contest\obj\Debug\Contest.pdb
 C:\Users\sudheerk.2873\Documents\GitHub\spaap\Project\Contest\Contest\bin\Contest.dll.config
 C:\Users\sudheerk.2873\Documents\GitHub\spaap\Project\Contest\Contest\bin\Contest.dll
+C:\Users\sudheerk.2873\Documents\GitHub\spaap\Project\Contest\Contest\bin\Contest.pdb
 C:\Users\sudheerk.2873\Documents\GitHub\spaap\Project\Contest\Contest\obj\Debug\Contest.csprojResolveAssemblyReference.cache
 C:\Users\sudheerk.2873\Documents\GitHub\spaap\Project\Contest\Contest\obj\Debug\Contest.dll
 C:\Users\sudheerk.2873\Documents\GitHub\spaap\Project\Contest\Contest\obj\Debug\Contest.pdb

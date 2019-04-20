@@ -1,7 +1,0 @@
-D:\SPAAP\SPAAP\DataAccess\bin\Debug\DataAccess.dll
-D:\SPAAP\SPAAP\DataAccess\bin\Debug\DataAccess.pdb
-D:\SPAAP\SPAAP\DataAccess\bin\Debug\ObjectAccess.dll
-D:\SPAAP\SPAAP\DataAccess\bin\Debug\ObjectAccess.pdb
-D:\SPAAP\SPAAP\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
-D:\SPAAP\SPAAP\DataAccess\obj\Debug\DataAccess.dll
-D:\SPAAP\SPAAP\DataAccess\obj\Debug\DataAccess.pdb

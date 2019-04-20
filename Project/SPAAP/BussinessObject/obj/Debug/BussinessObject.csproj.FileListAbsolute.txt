@@ -1,9 +1,0 @@
-D:\SPAAP\SPAAP\BussinessObject\bin\Debug\BussinessObject.dll
-D:\SPAAP\SPAAP\BussinessObject\bin\Debug\BussinessObject.pdb
-D:\SPAAP\SPAAP\BussinessObject\bin\Debug\DataAccess.dll
-D:\SPAAP\SPAAP\BussinessObject\bin\Debug\ObjectAccess.dll
-D:\SPAAP\SPAAP\BussinessObject\bin\Debug\DataAccess.pdb
-D:\SPAAP\SPAAP\BussinessObject\bin\Debug\ObjectAccess.pdb
-D:\SPAAP\SPAAP\BussinessObject\obj\Debug\BussinessObject.csprojResolveAssemblyReference.cache
-D:\SPAAP\SPAAP\BussinessObject\obj\Debug\BussinessObject.dll
-D:\SPAAP\SPAAP\BussinessObject\obj\Debug\BussinessObject.pdb
