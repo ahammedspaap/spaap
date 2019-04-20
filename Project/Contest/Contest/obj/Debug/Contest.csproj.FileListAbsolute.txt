@@ -1,0 +1,6 @@
+E:\SPAAP\Contest\Contest\bin\Contest.dll.config
+E:\SPAAP\Contest\Contest\bin\Contest.dll
+E:\SPAAP\Contest\Contest\bin\Contest.pdb
+E:\SPAAP\Contest\Contest\obj\Debug\Contest.csprojResolveAssemblyReference.cache
+E:\SPAAP\Contest\Contest\obj\Debug\Contest.dll
+E:\SPAAP\Contest\Contest\obj\Debug\Contest.pdb
